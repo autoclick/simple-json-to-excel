@@ -83,7 +83,7 @@ def get_input_with_default(prompt, default_value):
     return user_input
 # Main function to run the CLI
 def main():
-    path = os.getcwd() + '/input/*.json'
+    path = os.getcwd() + '/*.json'
     files = glob.glob(path)
     for file in files:
         print(file)
