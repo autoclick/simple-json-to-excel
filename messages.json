@@ -1,0 +1,210 @@
+{
+    "userId": "8:andrey.0404",
+    "exportDate": "2024-10-20T08:25",
+    "conversations": [
+        {
+            "id": "8:live:goverperson",
+            "displayName": "Jing - infinty new tab",
+            "version": 1729409989795,
+            "properties": {
+                "conversationblocked": false,
+                "lastimreceivedtime": "2024-10-18T13:37:24.231Z",
+                "consumptionhorizon": "1729409989021;1729409736991;11096750811103288035",
+                "conversationstatus": "Accepted"
+            },
+            "threadProperties": null,
+            "MessageList": [
+                {
+                    "id": "1729409989021",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-20T07:35:36.548Z",
+                    "messagetype": "RichText",
+                    "version": 1729409989021,
+                    "content": "I think today is your birthday if I&apos;m not mistaken ",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729260108934",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T14:01:48.602Z",
+                    "messagetype": "RichText",
+                    "version": 1729260108934,
+                    "content": "What is it now?",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729258645107",
+                    "displayName": "Jing - infinty new tab",
+                    "originalarrivaltime": "2024-10-18T13:37:24.231Z",
+                    "messagetype": "RichText",
+                    "version": 1729258645107,
+                    "content": "coverage should be more than 90%",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:live:goverperson",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729254274521",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T12:20:24.485Z",
+                    "messagetype": "RichText",
+                    "version": 1729254274521,
+                    "content": "enjoy the weekend",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729251404921",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:36:44.472Z",
+                    "messagetype": "RichText",
+                    "version": 1729251404921,
+                    "content": "Tnx",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729251188852",
+                    "displayName": "Jing - infinty new tab",
+                    "originalarrivaltime": "2024-10-18T11:33:07.977Z",
+                    "messagetype": "RichText",
+                    "version": 1729251188852,
+                    "content": "sent",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:live:goverperson",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729251128115",
+                    "displayName": "Jing - infinty new tab",
+                    "originalarrivaltime": "2024-10-18T11:32:07.273Z",
+                    "messagetype": "RichText",
+                    "version": 1729251128115,
+                    "content": "sure",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:live:goverperson",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249890663",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:07:20.596Z",
+                    "messagetype": "RichText",
+                    "version": 1729249890663,
+                    "content": "can you send it manually , i confirm it now",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249870616",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:07:00.547Z",
+                    "messagetype": "RichText",
+                    "version": 1729249870616,
+                    "content": "very sorry man",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249847880",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:06:37.778Z",
+                    "messagetype": "RichText",
+                    "version": 1729249847880,
+                    "content": "your are correct",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249843879",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:06:33.795Z",
+                    "messagetype": "RichText",
+                    "version": 1729249843879,
+                    "content": "sorry man",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249819269",
+                    "displayName": "Jing - infinty new tab",
+                    "originalarrivaltime": "2024-10-18T11:10:18.344Z",
+                    "messagetype": "RichText",
+                    "version": 1729249819269,
+                    "content": "have you confirm in you emain box?",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:live:goverperson",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729249777815",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T11:05:27.737Z",
+                    "messagetype": "RichText",
+                    "version": 1729249777815,
+                    "content": "is the 2nd link report automated? I didn&apos;t receive it today",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": null,
+                    "amsreferences": null
+                },
+                {
+                    "id": "1729245982955",
+                    "displayName": null,
+                    "originalarrivaltime": "2024-10-18T10:02:12.841Z",
+                    "messagetype": "RichText",
+                    "version": 1729249362739,
+                    "content": "the second link guys, please aske them to add coverage to this report",
+                    "conversationid": "8:live:goverperson",
+                    "from": "8:andrey.0404",
+                    "properties": {
+                        "emotions": [
+                            {
+                                "key": "yes",
+                                "users": [
+                                    {
+                                        "mri": "8:live:goverperson",
+                                        "time": 1729249359895
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "reactionsConsumptionHorizon",
+                                "users": [
+                                    {
+                                        "mri": "8:andrey.0404",
+                                        "time": 1729249362739,
+                                        "value": "1729249112470"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "amsreferences": null
+                }
+	]
+	}
+    ]
+}
