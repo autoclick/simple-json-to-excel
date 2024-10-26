@@ -87,7 +87,7 @@ def load_conversations(file_path):
 
 # Main function to demonstrate
 def main():
-    path = os.getcwd() + '/input/*.json'
+    path = os.getcwd() + '/*.json'
     files = glob.glob(path)
     for file in files:
         print(file)
